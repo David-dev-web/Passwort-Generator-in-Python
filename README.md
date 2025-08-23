@@ -1,6 +1,7 @@
 # Python Password Generator
 
-[**Download the executable (.exe) for Windows from the latest release!**]((https://github.com/David-dev-web/Passwort-Generator-in-Python/releases/tag/v1.0 ) 
+[**Download the executable (.exe) for Windows from the latest release!**](https://github.com/David-dev-web/Passwort-Generator-in-Python/releases/latest )
+
 
 
 A simple but powerful password generator with a graphical user interface (GUI), built with Python.
